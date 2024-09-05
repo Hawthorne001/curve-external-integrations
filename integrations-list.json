@@ -408,12 +408,12 @@
   "networks":  ["ethereum", "bsc", "polygon", "arbitrum", "optimism", "avalanche", "base", "mantle", "gnosis"]
 },{
   "name": "Beefy",
-  "description": "Autocompounding Curve LPs and more on over 20 blockchains.",
+  "description": "Autocompounding Curve LPs and Curve Lend on over 20 blockchains.",
   "imageId": "beefy.png",
   "appUrl": "https://app.beefy.com/",
   "twitterUrl": "https://twitter.com/beefyfinance",
-  "tags": ["defi"],
-  "networks": ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "kava", "gnosis", "base"]
+  "tags": ["defi", "lend"],
+  "networks": ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "kava", "gnosis", "base", "fraxtal"]
 },{
   "name": "MetaCRM",
   "description": "Providing a suite of innovative software solutions empowering marketing efficiency & personalized customer service for Web3 businesses",
@@ -446,4 +446,36 @@
   "twitterUrl": "https://twitter.com/intotheblock",
   "tags": ["learningData", "crvusd"],
   "networks": ["ethereum"]
+},{
+  "name": "CRV Hub",
+  "description": "Extensive data about crvUSD, Curve pools, and Curve DAO",
+  "imageId": "crvhub.png",
+  "appUrl": "https://crvhub.com/",
+  "twitterUrl": "https://twitter.com/0xcrv_hub",
+  "tags": ["learningData", "crvusd"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "fantom", "celo", "aurora", "gnosis", "base"]
+},{
+  "name": "Mezo",
+  "description": "Bitcoin's Economic Layer",
+  "imageId": "Mezo.png",
+  "appUrl": "https://mezo.org/hodl-with/curve",
+  "twitterUrl": "https://twitter.com/MezoNetwork",
+  "tags": ["crvusd"],
+  "networks":  ["ethereum"]
+},{
+  "name": "Zunami Protocol",
+  "description": "Decentralized Stablecoins and Omnipools",
+  "imageId": "zunami.svg",
+  "appUrl": "https://app.zunami.io/",
+  "twitterUrl": "https://twitter.com/zunamiprotocol",
+  "tags": ["defi"],
+  "networks":  ["ethereum"]
+},{
+  "name": "ShapeShift",
+  "description": "Track, trade, buy, borrow, and earn. Community owned. Private. Non-custodial. Multichain.",
+  "imageId": "shapeshift.svg",
+  "appUrl": "https://app.shapeshift.com/",
+  "twitterUrl": "https://x.com/ShapeShift/",
+  "tags": ["defi", "portfolio"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "gnosis", "base"]
 }]
