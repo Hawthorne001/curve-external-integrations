@@ -518,4 +518,12 @@
   "twitterUrl": "https://x.com/yieldbasis",
   "tags": ["defi"],
   "networks":  ["ethereum"]
+},{
+  "name": "IPOR Fusion",
+  "description": "IPOR Fusion is a meta DeFi aggregation, execution & intelligence engine that introduces a unified liquidity framework for onchain asset management.",
+  "imageId": "ipor-fusion.svg",
+  "appUrl": "https://app.ipor.io/fusion",
+  "twitterUrl": "https://x.com/ipor_io",
+  "tags": ["defi"],
+  "networks":  ["ethereum", "arbitrum", "avalanche", "base", "ink", "plasma", "tac", "unichain"]
 }]
