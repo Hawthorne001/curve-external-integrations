@@ -418,7 +418,7 @@
   "name": "Resupply",
   "description": "A decentralized stablecoin protocol, leveraging the liquidity and stability of lending markets.",
   "imageId": "resupply.png",
-  "appUrl": "https://resupply.fi/",
+  "appUrl": "https://resupply.finance/",
   "twitterUrl": "https://x.com/ResupplyFi",
   "tags": ["defi", "lend"],
   "networks":  ["ethereum"]
