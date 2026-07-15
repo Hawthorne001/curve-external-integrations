@@ -534,4 +534,20 @@
   "twitterUrl": "https://x.com/PropellerSwap/",
   "tags": ["defi"],
   "networks":  ["ethereum", "base", "unichain"]
+},{
+  "name": "Enso",
+  "description": "Enso is blockchain shortcuts. Your fastest way to build and launch onchain.",
+  "imageId": "enso.png",
+  "appUrl": "https://www.enso.build/",
+  "twitterUrl": "https://x.com/EnsoBuild",
+  "tags": ["defi"],
+  "networks":  ["ethereum", "arbitrum", "optimism", "base"]
+},{
+  "name": "Merkl",
+  "description": "We calculate the yield and rewards you've earned onchain, and distribute them to your wallet.",
+  "imageId": "merkl.png",
+  "appUrl": "https://app.merkl.xyz/",
+  "twitterUrl": "https://x.com/merkl_xyz/",
+  "tags": ["defi"],
+  "networks":  ["ethereum", "polygon", "bsc", "arbitrum", "avalanche", "optimism", "sonic", "gnosis", "base", "fraxtal", "monad", "etherlink", "hyperliquid", "tac", "ink", "robinhood", "xdc"]
 }]
