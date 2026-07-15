@@ -526,4 +526,12 @@
   "twitterUrl": "https://x.com/ipor_io",
   "tags": ["defi"],
   "networks":  ["ethereum", "arbitrum", "avalanche", "base", "ink", "plasma", "tac", "unichain"]
+},{
+  "name": "Fynd",
+  "description": "Fynd is an open-source DEX aggregator built in Rust. Solve trades in under 50ms. No rate limits. Run it locally and make it yours.",
+  "imageId": "fynd.png",
+  "appUrl": "https://www.fynd.xyz/",
+  "twitterUrl": "https://x.com/PropellerSwap/",
+  "tags": ["defi"],
+  "networks":  ["ethereum", "base", "unichain"]
 }]
